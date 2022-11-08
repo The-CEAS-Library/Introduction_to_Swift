@@ -15,5 +15,5 @@ Workshop for swift programming
 # Note: 
 * Please click 'launch binder' button below to launch the Binder. A Binder is an interactive environment that allows you to run code in the web browser without any need for installations. Please click 'Open in Colab' button below to launch the notebook in Google Colab for an interactive environment in the web browser.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/The-CEAS-Library/Introduction_to_Swift/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/The-CEAS-Library/Introduction-to-Swift/)
 
